@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ganesh
+IoT & Java Full Stack Enthusiast | SAP ML/DL Trainee | Wipro Full Stack Java Trainee
 
-<!--
-**gani4240/gani4240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- *Languages:* Java, Python, SQL  
+- *Frameworks & Tools:* Streamlit, OpenCV, Spring Boot (Learning), Git & GitHub  
+- *Domains:* IoT, Machine Learning, Deep Learning, Computer Vision, Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projects
+### 🌱 [IoT Crop Fertilizer System](https://github.com/your-username/CropFertilizerSystem)
+Automated fertilizer control using IoT sensors & MQTT protocol, integrated with SAP IoT dashboard.
+
+### 🩺 [Disease Prediction by Symptoms](https://github.com/your-username/DiseasePredictionBySymptoms)
+Predicts diseases based on symptoms using Decision Tree (Python, Streamlit).
+
+### 👨‍💻 [Gender Detection using Webcam](https://github.com/your-username/GenderDetectionWebcam)
+Real-time gender detection using OpenCV and CNN model.
+
+---
+
+## 📫 Connect with Me
+- https://www.linkedin.com/in/ganesh-mekala-6939g4240
+- 📧 Email: ganeshgana939@gmail.com
