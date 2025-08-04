@@ -23,5 +23,5 @@ Real-time gender detection using OpenCV and CNN model.
 ---
 
 ## 📫 Connect with Me
-- https://www.linkedin.com/in/ganesh-mekala-6939g4240
+- https://www.linkedin.com/in/gani03
 - 📧 Email: ganeshgana939@gmail.com
